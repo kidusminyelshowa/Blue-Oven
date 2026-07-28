@@ -1,0 +1,26 @@
+:root{
+--font-sans:"Free Sans",-apple-system,"Helvetica Neue",Arial,sans-serif;
+--font-display:"Free Sans",-apple-system,"Helvetica Neue",Arial,sans-serif;
+
+--fs-display-xl:64px;
+--fs-display-l:48px;
+--fs-display-m:36px;
+--fs-title-l:28px;
+--fs-title-m:22px;
+--fs-title-s:18px;
+--fs-body-l:18px;
+--fs-body-m:16px;
+--fs-body-s:14px;
+--fs-caption:12px;
+
+--lh-tight:1.1; /* @kind other */
+--lh-snug:1.25; /* @kind other */
+--lh-normal:1.5; /* @kind other */
+--lh-relaxed:1.65; /* @kind other */
+
+--fw-regular:400; /* @kind other */
+--fw-bold:700; /* @kind other */
+
+--ls-tight:-0.01em;
+--ls-wide:0.04em;
+}
